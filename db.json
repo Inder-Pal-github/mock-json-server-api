@@ -1,0 +1,59 @@
+{
+  "library": [
+    {
+      "image_url": "https://imgs.search.brave.com/tu02YDUM4Zc6LKXtijn7ja9cvoh1fVItWtrEUL1pG98/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5X/d1dBY1VmVExKa3R3/dWwzaFVocE9nSGFF/OCZwaWQ9QXBp",
+      "name": "Inder",
+      "author": "abc",
+      "publisher": "abc",
+      "cost": 234,
+      "genre": "Science",
+      "edition": "2020",
+      "borrowed": false,
+      "id": 5
+    },
+    {
+      "image_url": "https://imgs.search.brave.com/tu02YDUM4Zc6LKXtijn7ja9cvoh1fVItWtrEUL1pG98/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5X/d1dBY1VmVExKa3R3/dWwzaFVocE9nSGFF/OCZwaWQ9QXBp",
+      "name": "Inder",
+      "author": "abc",
+      "publisher": "abc",
+      "cost": 453,
+      "genre": "History",
+      "edition": "2022",
+      "borrowed": false,
+      "id": 4
+    },
+    {
+      "image_url": "https://imgs.search.brave.com/tu02YDUM4Zc6LKXtijn7ja9cvoh1fVItWtrEUL1pG98/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5X/d1dBY1VmVExKa3R3/dWwzaFVocE9nSGFF/OCZwaWQ9QXBp",
+      "name": "Inder",
+      "author": "abc",
+      "publisher": "abc",
+      "cost": 3535,
+      "genre": "History",
+      "edition": "2021",
+      "borrowed": false,
+      "id": 3
+    },
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "image_url": "https://imgs.search.brave.com/tu02YDUM4Zc6LKXtijn7ja9cvoh1fVItWtrEUL1pG98/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5X/d1dBY1VmVExKa3R3/dWwzaFVocE9nSGFF/OCZwaWQ9QXBp",
+      "book_name": "Test1",
+      "author": "Inder",
+      "genre": "science",
+      "edition": "2022",
+      "publisher": "Dark",
+      "cost": "290",
+      "borrowed": false,
+      "id": 2
+    }
+  ]
+}
