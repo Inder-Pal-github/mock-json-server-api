@@ -6,7 +6,7 @@
       "author": "abc",
       "publisher": "abc",
       "cost": 234,
-      "genre": "Science",
+      "genre": "science",
       "edition": "2020",
       "borrowed": false,
       "id": 5
@@ -17,7 +17,7 @@
       "author": "abc",
       "publisher": "abc",
       "cost": 453,
-      "genre": "History",
+      "genre": "history",
       "edition": "2022",
       "borrowed": false,
       "id": 4
@@ -28,7 +28,7 @@
       "author": "abc",
       "publisher": "abc",
       "cost": 3535,
-      "genre": "History",
+      "genre": "history",
       "edition": "2021",
       "borrowed": false,
       "id": 3
